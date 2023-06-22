@@ -11,7 +11,7 @@ https://docs.ros.org/en/humble/Installation.html
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/c1ph3r-fsocitey/ROS2_Publisher_Subscriber
+   git clone https://github.com/c1ph3r-fsocitey/ROS2_Publisher_Subscriber_CPP
    ```
 2. Build the workspace:
    ```
